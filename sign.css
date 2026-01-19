@@ -1,0 +1,43 @@
+.login_form{
+    border: black solid;
+    width: 250px;
+    border-radius: 20px;
+    padding: 25px;
+    font-size: 25px;
+    background-color: beige;
+}
+main{
+    display: grid;
+    place-items: center;
+    height: 500px;
+}
+.para{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;
+    color: olive;
+}
+.login_form input[type]{
+    width: 250px;
+    height: 30px;
+    font-size: 18px;
+}
+.button_create{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: aquamarine;
+    color: rgb(139, 175, 163);
+    cursor: pointer;
+    font-size: 30px;
+    border: black;
+    border-radius: 10px;
+    text-decoration: none;
+}
+.button_create:hover{
+    background-color: rgb(139, 175, 163);
+    color: aquamarine;
+}
+body{
+    background-color: rgb(245, 243, 248);
+}
+a{
+    text-decoration: none;
+}

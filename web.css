@@ -1,0 +1,91 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    place-items: center;
+    margin: none;
+    text-decoration: none;
+}
+#logo{
+    display: flex;
+    justify-content: space-evenly;
+    place-items: center;
+    font-weight: 500px;
+}
+#p1{
+    padding: none;
+    background: linear-gradient(to right,rgb(6, 6, 240),rgb(5, 243, 5),rgb(247, 7, 247),rgb(241, 159, 5),rgb(241, 6, 45));
+    background-clip: text;
+    color: transparent;
+    text-shadow: black;
+
+    font-weight: 1000px;
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#shoe5{
+    border: none;
+    border-radius: 50%;
+}
+#shoe2{
+    border: none;
+    border-radius: 50%;
+}
+.button{
+    border: 1px solid;
+    border-radius: 20px;
+    color: rgb(104, 95, 95);
+    background-color: rgb(255, 248, 248);
+    font-size: 30px;
+    padding: 10px;
+    cursor: pointer;
+    text-decoration: solid;
+}
+.button:hover{
+    color: black;
+    background-color: rgb(218, 248, 218);
+}
+.sign_in{
+    border: 1px solid;
+    border-radius: 20px;
+    color: rgb(143, 88, 88);
+    background-color: rgb(230, 187, 224);
+    font-size: 30px;
+    padding: 10px;
+    cursor: pointer;
+    text-decoration: none;
+}
+.sign_in:hover{
+    color: black;
+    background-color: rgb(243, 238, 190);
+}
+.page{
+    display: flex;
+    text-align: right;
+}
+#p2{
+    font-size: 175px;
+    color: blue;
+    font-weight: 10px;
+    padding: 0px;
+    margin: 0px;
+}
+#p3{
+    font-size: 80px;
+    color: red;
+    font-weight: 10px;
+    padding: 0px;
+    margin: 0px;
+}
+#p4{
+    font-size: 40px;
+    color: black;
+    font-weight: 10px;
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: rgb(231, 231, 200);
+}
+a{
+    text-decoration: none;
+}
