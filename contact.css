@@ -1,0 +1,25 @@
+.contact_page{
+    display: flex;
+}
+#contact_image{
+    height: 540px;
+    width: 1000px;
+    margin: 0px;
+}
+.contact_content{
+    display: grid;
+    place-items: center;
+}
+.Email{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    padding: 0px;
+    font-weight: 5px;
+    margin-bottom: 0px;
+}
+.follow{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    font-weight: 10px;
+    color: rgb(116, 62, 62);
+}

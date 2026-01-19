@@ -1,0 +1,65 @@
+#menu_button1{
+    height: 50px;
+    width: 700px;
+    font-size: 30px;
+    text-align: left;
+    display: inline-block;
+}
+#menu_button2{
+    height: 50px;
+    width: 700px;
+    font-size: 30px;
+    text-align: left;
+}
+#menu_button3{
+    height: 50px;
+    width: 700px;
+    font-size: 30px;
+    text-align: left;
+}
+#menu_button4{
+    height: 50px;
+    width: 700px;
+    font-size: 30px;
+    text-align: left;
+}
+#menu_button5{
+    height: 50px;
+    width: 700px;
+    font-size: 30px;
+    text-align: left;
+}
+#menu_button6{
+    height: 50px;
+    width: 700px;
+    font-size: 30px;
+    text-align: left;
+}
+#menu_button7{
+    height: 50px;
+    width: 700px;
+    font-size: 30px;
+    text-align: left;
+}
+#menu_button8{
+    height: 50px;
+    width: 700px;
+    font-size: 30px;
+    text-align: left;
+}
+#menu_button9{
+    height: 50px;
+    width: 700px;
+    font-size: 30px;
+    text-align: left;
+}
+#menu_button10{
+    height: 50px;
+    width: 700px;
+    font-size: 30px;
+    text-align: left;
+}
+#select_menu{
+    display: grid;
+    place-items: right;
+}
